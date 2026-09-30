@@ -72,7 +72,7 @@ Full-stack developer and AI/ML engineer focused on shipping production-grade web
 ### 1. Install Dependencies
 
 ```bash
-npm install --legacy-peer-deps
+npm install
 ```
 
 ### 2. Run Locally
